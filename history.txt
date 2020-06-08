@@ -1,2 +1,2 @@
 Esta es una prueba del proyecto 1
-del curso de git
+del curso de git.
