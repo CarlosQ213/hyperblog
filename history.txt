@@ -1,2 +1,4 @@
 Esta es una prueba del proyecto 1
 del curso de git.
+
+Cambios para ver reset HARD
